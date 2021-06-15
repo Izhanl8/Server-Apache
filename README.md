@@ -1,7 +1,7 @@
 ## **📖 Please read that 📖**
 
 
-- [ ] ⚙️ Finish my changes
+- [ ] ⚙️ Don't is finished the repository
 
 [<img src='https://images.emojiterra.com/twitter/512px/1f1ec-1f1e7.png' height='15'>]() **English** [<img src='https://images.emojiterra.com/twitter/512px/1f1ec-1f1e7.png' height='15'>]()
 
